@@ -24,13 +24,17 @@ This dataset is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/
 **Email: globalenergygrid@gmail.com**
 
 **Terms:**
-- **Attribution** — Credit must include: "Anthony Solgot, Global Harmonic Grid Dataset (25σ φ-anomaly), DOI forthcoming"
+
+- **Attribution** — Credit must include: "Anthony Solgot, Global Harmonic Grid Dataset (25σ φ-anomaly),
+  
 - **Academic use FREE** — Citation required only
-- **Commercial use PAID** — Direct licensing negotiation
+
+-  **Commercial use PAID** — Direct licensing negotiation
+  
 - **No sublicensing** — All derivative commercial works route through author
 
-**Technology transfer / IP licensing:** globalenergygrid@gmail.com
+**Technology transfer / IP licensing:** globalenergygrid@gmail.com or
+anthony.solgot.research@proton.me
 
-**Dataset DOI:** [Coming soon on Zenodo]
-
-![CC-BY-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+**Dataset DOI:**   https://doi.org/10.5281/zenodo.19152655
+[CC-BY-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
