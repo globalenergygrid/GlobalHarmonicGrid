@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Harmonic Energy Flows</name>
+  
+  <!-- φ-LADDER: Capstone → φ^5 Europe (RED) -->
+  <Placemark>
+    <name>φ^4→φ^5 Energy Ladder (Primary Flow)</name>
+    <styleUrl>#redLine</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        0.00,20.00,0
+        0.00,37.50,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  
+  <!-- GLOBAL φ-BAND: 20°N Circumference (BLUE) -->
+  <Placemark>
+    <name>Global φ^4 Band 20°N (Distribution Flow)</name>
+    <styleUrl>#blueLine</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        0.00,20.00,0
+        90.00,20.00,0
+        180.00,20.00,0
+        -90.00,20.00,0
+        0.00,20.00,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  
+  <!-- GOBEKLI GREAT CIRCLE: Capstone → Oldest Temple (GOLD) -->
+  <Placemark>
+    <name>Capstone → Göbekli Tepe Great Circle</name>
+    <styleUrl>#goldLine</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        0.00,20.00,0
+        38.92,37.22,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+  
+  <!-- STYLES -->
+  <Style id="redLine">
+    <LineStyle>
+      <color>ff0000ff</color>
+      <width>6</width>
+    </LineStyle>
+  </Style>
+  <Style id="blueLine">
+    <LineStyle>
+      <color>ffff0000</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Style id="goldLine">
+    <LineStyle>
+      <color>ff00ffff</color>
+      <width>8</width>
+    </LineStyle>
+  </Style>
+</Document>
+</kml>
